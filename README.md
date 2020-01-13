@@ -1,1 +1,2 @@
 # lungDetector
+This is a short matlab script designed to create a machine learning model to predict whether or not a patient has pneumonia. It retrains the googlenet network using several thousand chest x-rays. The dataset can be found here: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. After validating, the model had a 96% success rate. This is one of my first matlab projects and therefore is rather rudimentary.
